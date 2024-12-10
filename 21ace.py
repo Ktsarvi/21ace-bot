@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 # Initialize the bot with your token
-API_TOKEN = '7595196456:AAFfnXKES6K741L8qNKWy4M7mnfEe481BOg'  # Replace with your bot's actual token
+API_TOKEN = 'YOUR_TOKEN'  # Replace with your bot's actual token
 bot = telebot.TeleBot(API_TOKEN)
 
 
